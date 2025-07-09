@@ -1,2 +1,16 @@
 # basic-clustering-using-k-means-
-clustering projects using k-means to group data based on features with visualization
+
+This project applies the **K-Means Clustering** algorithm to group data points into distinct clusters based on their features.
+
+✅ **Completed Task:** Basic Clustering using K-Means  
+📌 **Internship**: TechMeld Data Science Internship  
+
+---
+
+## 🧰 Tools Used:
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn (KMeans)
+
